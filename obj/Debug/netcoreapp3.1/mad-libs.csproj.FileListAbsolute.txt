@@ -1,0 +1,12 @@
+/Users/sheemakhan/development/projects/C#/mad-libs/bin/Debug/netcoreapp3.1/mad-libs.deps.json
+/Users/sheemakhan/development/projects/C#/mad-libs/bin/Debug/netcoreapp3.1/mad-libs.runtimeconfig.json
+/Users/sheemakhan/development/projects/C#/mad-libs/bin/Debug/netcoreapp3.1/mad-libs.runtimeconfig.dev.json
+/Users/sheemakhan/development/projects/C#/mad-libs/bin/Debug/netcoreapp3.1/mad-libs.dll
+/Users/sheemakhan/development/projects/C#/mad-libs/bin/Debug/netcoreapp3.1/mad-libs.pdb
+/Users/sheemakhan/development/projects/C#/mad-libs/obj/Debug/netcoreapp3.1/mad-libs.csprojAssemblyReference.cache
+/Users/sheemakhan/development/projects/C#/mad-libs/obj/Debug/netcoreapp3.1/mad-libs.AssemblyInfoInputs.cache
+/Users/sheemakhan/development/projects/C#/mad-libs/obj/Debug/netcoreapp3.1/mad-libs.AssemblyInfo.cs
+/Users/sheemakhan/development/projects/C#/mad-libs/obj/Debug/netcoreapp3.1/mad-libs.csproj.CoreCompileInputs.cache
+/Users/sheemakhan/development/projects/C#/mad-libs/obj/Debug/netcoreapp3.1/mad-libs.dll
+/Users/sheemakhan/development/projects/C#/mad-libs/obj/Debug/netcoreapp3.1/mad-libs.pdb
+/Users/sheemakhan/development/projects/C#/mad-libs/obj/Debug/netcoreapp3.1/mad-libs.genruntimeconfig.cache
